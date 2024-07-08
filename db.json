@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "La Federación: El Cártel de Cárteles",
+            "capa": "https://res.cloudinary.com/dujrua0vo/image/upload/v1720461802/La-Federacion_xge4r0.png",
+            "link": "https://youtu.be/ivm0aNeaZaU"
+        },
+        {
+            "id": 2,
+            "titulo": "Mapa 2024: Delincuencia Organizada en México",
+            "capa": "https://res.cloudinary.com/dujrua0vo/image/upload/v1720462006/Mapa-actual-del-crimen-en-Mexico_njsqgb.png",
+            "link": "https://youtu.be/sZ5CAY9zbyk"
+        },
+        {
+            "id": 3,
+            "titulo": "Guerra en México: Historial entre narcotráfico y el Estado",
+            "capa": "https://res.cloudinary.com/dujrua0vo/image/upload/v1720462154/La-guerra-de-Mexico_rshjx6.png",
+            "link": "https://youtu.be/92O8YylwHyQ"
+        },
+        {
+            "id": 4,
+            "titulo": "Narco en México: Ajustes de sangre",
+            "capa": "https://res.cloudinary.com/dujrua0vo/image/upload/v1720462543/Historia-de-guerra_hijudc.png",
+            "link": "https://youtu.be/Pc2A2C56LqQ"
+        }
+    ]}
+    
